@@ -30,19 +30,19 @@ main {
 }
 .content-image1 {
 	height: 150px;
-	background-image: url(img2/flow01.png);
+	background-image: url(img_ch9/flow01.png);
 	background-size: cover;
 	background-position: :bottom;
 }
 .content-image2 {
 	height: 150px;
-	background-image: url(img2/flow02.png);
+	background-image: url(img_ch9/flow02.png);
 	background-size: cover;
 	background-position: :bottom;
 }
 .content-image3 {
 	height: 150px;
-	background-image: url(img2/flow03.png);
+	background-image: url(img_ch9/flow03.png);
 	background-size: cover;
 	background-position: :bottom;
 }
