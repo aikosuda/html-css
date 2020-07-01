@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+header {
+	width: 10%;
+}
+.headline {
+	width: 10%;
+	fontsize: 22px;
+}
+.nav {
+	width: 10%;
+	text-align: center;
+}
+.list {
+	padding-left: 40px;
+}
